@@ -1,0 +1,253 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<empresas>
+	<empresa>
+		<nombre>Emma Tech Solutions S.L.</nombre>
+		<cif>B40317141</cif>
+		<direccion>
+			<calle>Calle Pizarro</calle>
+			<numero>20</numero>
+			<localidad>Torrejon de Ardoz</localidad>
+			<provincia>Madrid</provincia>
+			<codigo_postal>28850</codigo_postal>
+		</direccion>
+		<empleados>
+			<empleado>
+				<nif>53443162A</nif>
+				<nombre>Emma</nombre>
+				<apellidos>Ciambrino Baz</apellidos>
+				<fecha_nacimiento>31-03-1982</fecha_nacimiento>
+				<email>emma.ciambrino@gmail.com</email>
+				<telefono>669 97 80 40</telefono>
+				<puesto>CFO, Data Scientist</puesto>
+				<direccion>
+					<calle>Calle Hilados</calle>
+					<numero>22</numero>
+					<localidad>Torrejon de Ardoz</localidad>
+					<provincia>Madrid</provincia>
+					<codigo_postal>28850</codigo_postal>
+				</direccion>
+			</empleado>
+			<empleado>
+				<nif>53016164Z</nif>
+				<nombre>Daniel</nombre>
+				<apellidos>Pompa Pareja</apellidos>
+				<fecha_nacimiento>29-08-1974</fecha_nacimiento>
+				<email>daniel.pompa@gmail.com</email>
+				<telefono>648 11 99 48</telefono>
+				<puesto>CEO, Full Stack Developer</puesto>
+				<direccion>
+					<calle>Calle Hilados</calle>
+					<numero>22</numero>
+					<localidad>Torrejon de Ardoz</localidad>
+					<provincia>Madrid</provincia>
+					<codigo_postal>28850</codigo_postal>
+				</direccion>
+			</empleado>
+			<empleado>
+				<nif>53694509R</nif>
+				<nombre>Adrián</nombre>
+				<apellidos>Cividanes Fernández</apellidos>
+				<fecha_nacimiento>13-05-1995</fecha_nacimiento>
+				<email>adrian.cividanes@hotmail.com</email>
+				<telefono>656 85 69 33</telefono>
+				<puesto>Network Administrator</puesto>
+				<direccion>
+					<calle>Calle Atenas</calle>
+					<numero>10</numero>
+					<localidad>Loeches</localidad>
+					<provincia>Madrid</provincia>
+					<codigo_postal>28890</codigo_postal>
+				</direccion>
+			</empleado>
+			<empleado>
+				<nif>53694509R</nif>
+				<nombre>Carmen</nombre>
+				<apellidos>Ciambrino Baz</apellidos>
+				<fecha_nacimiento>24-06-1984</fecha_nacimiento>
+				<email>carmen.ciambrino@gmail.com</email>
+				<telefono>603 98 52 36</telefono>
+				<puesto>Security Analist, Data Scientist</puesto>
+				<direccion>
+					<calle>Calle Madrid</calle>
+					<numero>16</numero>
+					<localidad>Barajas</localidad>
+					<provincia>Madrid</provincia>
+					<codigo_postal>28042</codigo_postal>
+				</direccion>
+			</empleado>
+			<empleado>
+				<nif>53254638H</nif>
+				<nombre>Hugo</nombre>
+				<apellidos>Ciambrino Baz</apellidos>
+				<fecha_nacimiento>06-09-1983</fecha_nacimiento>
+				<email>hugo.ciambrino@yahoo.com</email>
+				<telefono>676 85 26 47</telefono>
+				<puesto>Data Analyst</puesto>
+				<direccion>
+					<calle>Calle Solana</calle>
+					<numero>8</numero>
+					<localidad>Azuqueca de Henares</localidad>
+					<provincia>Madrid</provincia>
+					<codigo_postal>19200</codigo_postal>
+				</direccion>
+			</empleado>
+			<empleado>
+				<nif>53698236W</nif>
+				<nombre>Oscar</nombre>
+				<apellidos>Pompa Pareja</apellidos>
+				<fecha_nacimiento>23-10-1978</fecha_nacimiento>
+				<email>oscar.pompa@gmail.com</email>
+				<telefono>676 95 68 62</telefono>
+				<puesto>Systems Administrator</puesto>
+				<direccion>
+					<calle>Calle Pablo Ruiz Picasso</calle>
+					<numero>3</numero>
+					<localidad>Torrejon de Ardoz</localidad>
+					<provincia>Madrid</provincia>
+					<codigo_postal>28850</codigo_postal>
+				</direccion>
+			</empleado>
+			<empleado>
+				<nif>53259863T</nif>
+				<nombre>Roberto</nombre>
+				<apellidos>Pompa Pareja</apellidos>
+				<fecha_nacimiento>26-09-1982</fecha_nacimiento>
+				<email>roberto.pompa@hotmail.com</email>
+				<telefono>603 56 34 21</telefono>
+				<puesto>Data Base Administrator</puesto>
+				<direccion>
+					<calle>Calle Santa Marta</calle>
+					<numero>4</numero>
+					<localidad>Torrejon de Ardoz</localidad>
+					<provincia>Madrid</provincia>
+					<codigo_postal>28850</codigo_postal>
+				</direccion>
+			</empleado>
+			<empleado>
+				<nif>53283294L</nif>
+				<nombre>Razvan</nombre>
+				<apellidos>Illies</apellidos>
+				<fecha_nacimiento>09-03-1984</fecha_nacimiento>
+				<email>razvan.illies@gmail.com</email>
+				<telefono>656 23 68 95</telefono>
+				<puesto>Full Stack Developer</puesto>
+				<direccion>
+					<calle>Calle Madrid</calle>
+					<numero>16</numero>
+					<localidad>Barajas</localidad>
+					<provincia>Madrid</provincia>
+					<codigo_postal>28042</codigo_postal>
+				</direccion>
+			</empleado>
+		</empleados>
+	</empresa>
+	<empresa>
+		<nombre>Forkontac IT S.L.</nombre>
+		<cif>B42617132</cif>
+		<direccion>
+			<calle>Calle Mayor</calle>
+			<numero>30</numero>
+			<localidad>Alcala de Henares</localidad>
+			<provincia>Madrid</provincia>
+			<codigo_postal>28806</codigo_postal>
+		</direccion>
+		<empleados>
+			<empleado>
+				<nif>53193265L</nif>
+				<nombre>David</nombre>
+				<apellidos>Ruiz Castro</apellidos>
+				<fecha_nacimiento>11-05-1980</fecha_nacimiento>
+				<email>david.ruiz@hotmail.com</email>
+				<telefono>676 32 18 59</telefono>
+				<puesto>CEO, Full Stack Developer</puesto>
+				<direccion>
+					<calle>Calle Mayor</calle>
+					<numero>16</numero>
+					<localidad>Alcala de Henares</localidad>
+					<provincia>Madrid</provincia>
+					<codigo_postal>28806</codigo_postal>
+				</direccion>
+			</empleado>
+			<empleado>
+				<nif>53288381F</nif>
+				<nombre>Patricia</nombre>
+				<apellidos>Díaz Sanz</apellidos>
+				<fecha_nacimiento>22-11-1995</fecha_nacimiento>
+				<email>patricia.diaz@hotmail.com</email>
+				<telefono>603 20 11 95</telefono>
+				<puesto>Data Base Administrator</puesto>
+				<direccion>
+					<calle>Calle Madrid</calle>
+					<numero>22</numero>
+					<localidad>Torrejon de Ardoz</localidad>
+					<provincia>Madrid</provincia>
+					<codigo_postal>28850</codigo_postal>
+				</direccion>
+			</empleado>
+			<empleado>
+				<nif>53300788C</nif>
+				<nombre>Javier</nombre>
+				<apellidos>Nieto Castilla</apellidos>
+				<fecha_nacimiento>14-10-1993</fecha_nacimiento>
+				<email>javier.nieto@yahoo.com</email>
+				<telefono>603 02 16 80</telefono>
+				<puesto>Systems Administrator</puesto>
+				<direccion>
+					<calle>Calle Mayor</calle>
+					<numero>10</numero>
+					<localidad>Alcala de Henares</localidad>
+					<provincia>Madrid</provincia>
+					<codigo_postal>28806</codigo_postal>
+				</direccion>
+			</empleado>
+			<empleado>
+				<nif>53300788C</nif>
+				<nombre>Luis</nombre>
+				<apellidos>Serrano Iglesias</apellidos>
+				<fecha_nacimiento>02-01-1998</fecha_nacimiento>
+				<email>luis.serrano@yahoo.com</email>
+				<telefono>656 30 45 17</telefono>
+				<puesto>Systems Technician</puesto>
+				<direccion>
+					<calle>Calle Madrid</calle>
+					<numero>16</numero>
+					<localidad>Ajalvir</localidad>
+					<provincia>Madrid</provincia>
+					<codigo_postal>28864</codigo_postal>
+				</direccion>
+			</empleado>
+			<empleado>
+				<nif>53193437K</nif>
+				<nombre>Jesús</nombre>
+				<apellidos>Sánchez Alonso</apellidos>
+				<fecha_nacimiento>02-01-1998</fecha_nacimiento>
+				<email>jesus.sanchez@gmail.com</email>
+				<telefono>656 74 64 71</telefono>
+				<puesto>Helpdesk</puesto>
+				<direccion>
+					<calle>Calle Lisboa</calle>
+					<numero>8</numero>
+					<localidad>Torrejon de Ardoz</localidad>
+					<provincia>Madrid</provincia>
+					<codigo_postal>28850</codigo_postal>
+				</direccion>
+			</empleado>
+			<empleado>
+				<nif>53914376J</nif>
+				<nombre>Ana</nombre>
+				<apellidos>Fernández Martin</apellidos>
+				<fecha_nacimiento>08-11-2001</fecha_nacimiento>
+				<email>ana.fernadez@gmail.com</email>
+				<telefono>656 99 56 17</telefono>
+				<puesto>Helpdesk</puesto>
+				<direccion>
+					<calle>Calle Londres</calle>
+					<numero>8</numero>
+					<localidad>Ajalvir</localidad>
+					<provincia>Madrid</provincia>
+					<codigo_postal>28864</codigo_postal>
+				</direccion>
+			</empleado>
+		</empleados>
+	</empresa>
+</empresas>

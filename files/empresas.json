@@ -1,0 +1,150 @@
+{
+  "empresas": [
+    {
+      "nombre": "Emma Tech Solutions S.L.",
+      "cif": "B40317141",
+      "direccion": {
+        "calle": "Calle Pizarro",
+        "numero": 20,
+        "localidad": "Torrejon de Ardoz",
+        "provincia": "Madrid",
+        "codigo_postal": "28850"
+      },
+      "empleados": [
+        {
+          "nif": "53443162A",
+          "nombre": "Emma",
+          "apellidos": "Ciambrino Baz",
+          "fecha_nacimiento": {
+            "year": 1982,
+            "month": 3,
+            "day": 31
+          },
+          "email": "emma.ciambrino@gmail.com",
+          "telefono": "669 97 80 40",
+          "puesto": "CFO, Data Scientist",
+          "direccion": {
+            "calle": "Calle Hilados",
+            "numero": 22,
+            "localidad": "Torrejon de Ardoz",
+            "provincia": "Madrid",
+            "codigo_postal": "28850"
+          }
+        },
+        {
+          "nif": "53016164Z",
+          "nombre": "Daniel",
+          "apellidos": "Pompa Pareja",
+          "fecha_nacimiento": {
+            "year": 1974,
+            "month": 8,
+            "day": 29
+          },
+          "email": "daniel.pompa@gmail.com",
+          "telefono": "648 11 99 48",
+          "puesto": "CEO, Full Stack Developer",
+          "direccion": {
+            "calle": "Calle Hilados",
+            "numero": 22,
+            "localidad": "Torrejon de Ardoz",
+            "provincia": "Madrid",
+            "codigo_postal": "28850"
+          }
+        },
+        {
+          "nif": "53698236W",
+          "nombre": "Oscar",
+          "apellidos": "Pompa Pareja",
+          "fecha_nacimiento": {
+            "year": 1978,
+            "month": 10,
+            "day": 23
+          },
+          "email": "oscar.pompa@gmail.com",
+          "telefono": "676 95 68 62",
+          "puesto": "Systems Administrator",
+          "direccion": {
+            "calle": "Calle Pablo Ruiz Picasso",
+            "numero": 3,
+            "localidad": "Torrejon de Ardoz",
+            "provincia": "Madrid",
+            "codigo_postal": "28850"
+          }
+        },
+        {
+          "nif": "53259863T",
+          "nombre": "Roberto",
+          "apellidos": "Pompa Pareja",
+          "fecha_nacimiento": {
+            "year": 1982,
+            "month": 9,
+            "day": 26
+          },
+          "email": "roberto.pompa@hotmail.com",
+          "telefono": "603 56 34 21",
+          "puesto": "Data Base Administrator",
+          "direccion": {
+            "calle": "Calle Santa Marta",
+            "numero": 4,
+            "localidad": "Torrejon de Ardoz",
+            "provincia": "Madrid",
+            "codigo_postal": "28850"
+          }
+        }
+      ]
+    },
+    {
+      "nombre": "Forkontac IT S.L.",
+      "cif": "B42617132",
+      "direccion": {
+        "calle": "Calle Mayor",
+        "numero": 30,
+        "localidad": "Alcala de Henares",
+        "provincia": "Madrid",
+        "codigo_postal": "28806"
+      },
+      "empleados": [
+        {
+          "nif": "53288381F",
+          "nombre": "Patricia",
+          "apellidos": "Díaz Sanz",
+          "fecha_nacimiento": {
+            "year": 1995,
+            "month": 11,
+            "day": 22
+          },
+          "email": "patricia.diaz@hotmail.com",
+          "telefono": "603 20 11 95",
+          "puesto": "Data Base Administrator",
+          "direccion": {
+            "calle": "Calle Madrid",
+            "numero": 22,
+            "localidad": "Torrejon de Ardoz",
+            "provincia": "Madrid",
+            "codigo_postal": "28850"
+          }
+        },
+        {
+          "nif": "53193437K",
+          "nombre": "Jesús",
+          "apellidos": "Sánchez Alonso",
+          "fecha_nacimiento": {
+            "year": 1998,
+            "month": 1,
+            "day": 2
+          },
+          "email": "jesus.sanchez@gmail.com",
+          "telefono": "656 74 64 71",
+          "puesto": "Helpdesk",
+          "direccion": {
+            "calle": "Calle Lisboa",
+            "numero": 8,
+            "localidad": "Torrejon de Ardoz",
+            "provincia": "Madrid",
+            "codigo_postal": "28850"
+          }
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,180 @@
+<listadoPaises>
+	<pais continente="Europa">
+		<nombre>Alemania</nombre>
+		<capital>Berlín</capital>
+		<textoCapital>Berlín es la capital de Alemania</textoCapital>
+		<ciudadImportante>Berlín</ciudadImportante>
+		<ciudadImportante>Hamburgo</ciudadImportante>
+		<ciudadImportante>Múnich</ciudadImportante>
+		<ciudadImportante>Colonia</ciudadImportante>
+		<ciudadImportante>Stuttgard</ciudadImportante>
+		<ciudadImportante>Dormund</ciudadImportante>
+		<ciudadImportante>Bremen</ciudadImportante>
+	</pais>
+	<pais continente="Europa">
+		<nombre>Reino Unido</nombre>
+		<capital>Londres</capital>
+		<textoCapital>Londres es la capital del Reino Unido</textoCapital>
+		<ciudadImportante>Londres</ciudadImportante>
+		<ciudadImportante>Birmingham</ciudadImportante>
+		<ciudadImportante>Glasgow</ciudadImportante>
+		<ciudadImportante>Liverpool</ciudadImportante>
+		<ciudadImportante>Leeds</ciudadImportante>
+		<ciudadImportante>Sheffield</ciudadImportante>
+		<ciudadImportante>Edimburgo</ciudadImportante>
+	</pais>
+	<pais continente="Europa">
+		<nombre>Francia</nombre>
+		<capital>París</capital>
+		<textoCapital>París es la capital de Francia</textoCapital>
+		<ciudadImportante>París</ciudadImportante>
+		<ciudadImportante>Marsella</ciudadImportante>
+		<ciudadImportante>Lyon</ciudadImportante>
+		<ciudadImportante>Touluse</ciudadImportante>
+		<ciudadImportante>Niza</ciudadImportante>
+		<ciudadImportante>Nantes</ciudadImportante>
+		<ciudadImportante>Montpelier</ciudadImportante>
+	</pais>
+	<pais continente="America">
+		<nombre>Estados Unidos</nombre>
+		<capital>Washington D.C.</capital>
+		<textoCapital>Washington D.C. es la capital de Estados Unidos</textoCapital>
+		<ciudadImportante>Washington D.C.</ciudadImportante>
+		<ciudadImportante>Nueva York</ciudadImportante>
+		<ciudadImportante>Miami</ciudadImportante>
+		<ciudadImportante>San Diego</ciudadImportante>
+		<ciudadImportante>Los Ángeles</ciudadImportante>
+		<ciudadImportante>Chicago</ciudadImportante>
+		<ciudadImportante>Houston</ciudadImportante>
+	</pais>
+	<pais continente="America">
+		<nombre>Mexico</nombre>
+		<capital>México D.F.</capital>
+		<textoCapital>La Ciudad de México, Distrito Federal</textoCapital>
+		<ciudadImportante>México D.F.</ciudadImportante>
+		<ciudadImportante>Ecatepec</ciudadImportante>
+		<ciudadImportante>Guadalajara</ciudadImportante>
+		<ciudadImportante>Puebla</ciudadImportante>
+		<ciudadImportante>Juárez</ciudadImportante>
+		<ciudadImportante>Tijuana</ciudadImportante>
+		<ciudadImportante>León</ciudadImportante>
+		<ciudadImportante>Zapopan</ciudadImportante>
+	</pais>
+	<pais continente="America">
+		<nombre>Colombia</nombre>
+		<capital>Bogotá</capital>
+		<textoCapital>Bogotá es la capital de Colombia</textoCapital>
+		<ciudadImportante>Bogotá</ciudadImportante>
+		<ciudadImportante>Medellín</ciudadImportante>
+		<ciudadImportante>Cali</ciudadImportante>
+		<ciudadImportante>Barranquilla</ciudadImportante>
+		<ciudadImportante>Cartagena</ciudadImportante>
+		<ciudadImportante>Cúcuta</ciudadImportante>
+		<ciudadImportante>Soledad</ciudadImportante>
+		<ciudadImportante>Ibagué</ciudadImportante>
+	</pais>
+	<pais continente="Africa">
+		<nombre>Sudafrica</nombre>
+		<capital>Cidad del Cabo</capital>
+		<textoCapital>Ciudad del Cabo es la capital de Sudáfrica</textoCapital>
+		<ciudadImportante>Ciudad del Cabo</ciudadImportante>
+		<ciudadImportante>Johannesburgo</ciudadImportante>
+		<ciudadImportante>Durban</ciudadImportante>
+		<ciudadImportante>Pretoria</ciudadImportante>
+		<ciudadImportante>Puerto Elizabeth</ciudadImportante>
+		<ciudadImportante>Bloemfontein</ciudadImportante>
+		<ciudadImportante>Nelspruit</ciudadImportante>
+		<ciudadImportante>Kimberley</ciudadImportante>
+	</pais>
+	<pais continente="Africa">
+		<nombre>Egipto</nombre>
+		<capital>El Cairo</capital>
+		<textoCapital>El Cairo es la capital de Egipto</textoCapital>
+		<ciudadImportante>El Cairo</ciudadImportante>
+		<ciudadImportante>Alejandría</ciudadImportante>
+		<ciudadImportante>Guiza</ciudadImportante>
+		<ciudadImportante>Schubra al-Khaymah</ciudadImportante>
+		<ciudadImportante>Puerto Saíd</ciudadImportante>
+		<ciudadImportante>Suez</ciudadImportante>
+		<ciudadImportante>El Mansura</ciudadImportante>
+		<ciudadImportante>El-Mahalla El-Kubra</ciudadImportante>
+	</pais>
+		<pais continente="Africa">
+		<nombre>Nigeria</nombre>
+		<capital>Abuya</capital>
+		<textoCapital>Abuya es la capital de Nigeria</textoCapital>
+		<ciudadImportante>Abuya</ciudadImportante>
+		<ciudadImportante>Lagos</ciudadImportante>
+		<ciudadImportante>Ibadan</ciudadImportante>
+		<ciudadImportante>Benin City</ciudadImportante>
+		<ciudadImportante>Kano</ciudadImportante>
+		<ciudadImportante>Port Harcourt</ciudadImportante>
+		<ciudadImportante>Kaduna</ciudadImportante>
+		<ciudadImportante>Aba</ciudadImportante>
+	</pais>
+	<pais continente="Asia">
+		<nombre>China</nombre>
+		<capital>Pekín</capital>
+		<textoCapital>Pekín es la capital de China</textoCapital>
+		<ciudadImportante>Pekín</ciudadImportante>
+		<ciudadImportante>Shanghái</ciudadImportante>
+		<ciudadImportante>Cantón</ciudadImportante>
+		<ciudadImportante>Shenzhen</ciudadImportante>
+		<ciudadImportante>Tianjin</ciudadImportante>
+		<ciudadImportante>Hong Kong</ciudadImportante>
+		<ciudadImportante>Nankín</ciudadImportante>
+		<ciudadImportante>Wuhan</ciudadImportante>
+	</pais>
+	<pais continente="Asia">
+		<nombre>Japon</nombre>
+		<capital>Tokio</capital>
+		<textoCapital>Tokio es la capital de Japón</textoCapital>
+		<ciudadImportante>Tokio</ciudadImportante>
+		<ciudadImportante>Kioto</ciudadImportante>
+		<ciudadImportante>Kōbe</ciudadImportante>
+		<ciudadImportante>Nagasaki</ciudadImportante>
+		<ciudadImportante>Nagoya</ciudadImportante>
+		<ciudadImportante>Osaka</ciudadImportante>
+		<ciudadImportante>Sapporo</ciudadImportante>
+		<ciudadImportante>Sendai</ciudadImportante>
+	</pais>
+	<pais continente="Asia">
+		<nombre>Tailandia</nombre>
+		<capital>Bangkok</capital>
+		<textoCapital>Bangkok es la capital de Tailandia</textoCapital>
+		<ciudadImportante>Bangkok</ciudadImportante>
+		<ciudadImportante>Chiang Mai</ciudadImportante>
+		<ciudadImportante>Chiang Rai</ciudadImportante>
+		<ciudadImportante>Krabi</ciudadImportante>
+		<ciudadImportante>Phuket</ciudadImportante>
+		<ciudadImportante>Pattaya</ciudadImportante>
+		<ciudadImportante>Sukhothai</ciudadImportante>
+		<ciudadImportante>Ayuthaya</ciudadImportante>
+	</pais>
+	<pais continente="Oceania">
+		<nombre>Australia</nombre>
+		<capital>Canberra</capital>
+		<textoCapital>Canberra es la capital de Australia</textoCapital>
+		<ciudadImportante>Canberra</ciudadImportante>
+		<ciudadImportante>Sídney</ciudadImportante>
+		<ciudadImportante>Brisbane</ciudadImportante>
+		<ciudadImportante>Melbourne</ciudadImportante>
+		<ciudadImportante>Perth</ciudadImportante>
+		<ciudadImportante>Gold Coast</ciudadImportante>
+		<ciudadImportante>Byron Bay</ciudadImportante>
+		<ciudadImportante>Adelaide</ciudadImportante>
+	</pais>
+	<pais continente="Oceania">
+		<nombre>Nueva Zelanda</nombre>
+		<capital>Wellington</capital>
+		<textoCapital>Wellington es la capital de Nueva Zelanda</textoCapital>
+		<ciudadImportante>Wellington</ciudadImportante>
+		<ciudadImportante>Auckland</ciudadImportante>
+		<ciudadImportante>Manukau</ciudadImportante>
+		<ciudadImportante>Christchurch</ciudadImportante>
+		<ciudadImportante>North Shore City</ciudadImportante>
+		<ciudadImportante>Waitakere</ciudadImportante>
+		<ciudadImportante>Hamilton</ciudadImportante>
+		<ciudadImportante>Tauranga</ciudadImportante>
+	</pais>
+</listadoPaises>

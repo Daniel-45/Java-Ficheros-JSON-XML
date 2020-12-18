@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<bookStore>
+    <book>
+        <author>Erik Ray</author>
+        <category>Web</category>
+        <date>2003-11-30</date>
+        <price>39.95</price>
+        <title>
+            <lang>en</lang>
+            <text>Learning XML</text>
+        </title>
+    </book>
+    <book>
+        <author>James McGovern</author>
+        <author>Per Bothner</author>
+        <author>Kurt Cagle</author>
+        <author>James Linn</author>
+        <author>Vaidyanathan Nagarajan</author>
+        <category>Web</category>
+        <date>2015-02-10</date>
+        <price>49.99</price>
+        <title>
+            <lang>en</lang>
+            <text>XQuery Kick Start</text>
+        </title>
+    </book>
+</bookStore>

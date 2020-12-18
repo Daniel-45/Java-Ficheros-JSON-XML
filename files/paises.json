@@ -1,0 +1,46 @@
+{
+  "listado": [
+    {
+      "nombre": "Alemania",
+      "capital": "Berlín",
+      "textoCapital": "Berlín es la capital de Alemania",
+      "ciudadImportante": [
+        "Berlín",
+        "Hamburgo",
+        "Múnich",
+        "Colonia",
+        "Stuttgard",
+        "Dormund",
+        "Bremen"
+      ]
+    },
+    {
+      "nombre": "Reino Unido",
+      "capital": "Londres",
+      "textoCapital": "Londres es la capital del Reino Unido",
+      "ciudadImportante": [
+        "Londres",
+        "Birmingham",
+        "Glasgow",
+        "Liverpool",
+        "Leeds",
+        "Sheffield",
+        "Edimburgo"
+      ]
+    },
+    {
+      "nombre": "Francia",
+      "capital": "París",
+      "textoCapital": "París es la capital de Francia",
+      "ciudadImportante": [
+        "París",
+        "Marsella",
+        "Lyon",
+        "Touluse",
+        "Niza",
+        "Nantes",
+        "Montpelier"
+      ]
+    }
+  ]
+}

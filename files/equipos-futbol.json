@@ -1,0 +1,71 @@
+{
+  "equipos": [
+    {
+      "nombre": "Real Madrid",
+      "ciudad": "Madrid",
+      "jugadores": [
+        {
+          "posicion": "portero",
+          "nombre": "Thibaut",
+          "apellidos": "Courtois",
+          "fecha_nacimiento": {
+            "year": 1992,
+            "month": 5,
+            "day": 11
+          },
+          "nacionalidad": "Belga"
+        },
+        {
+          "posicion": "centrocampista",
+          "nombre": "Luka",
+          "apellidos": "Modric",
+          "fecha_nacimiento": {
+            "year": 1985,
+            "month": 9,
+            "day": 9
+          },
+          "nacionalidad": "Croata"
+        },
+        {
+          "posicion": "delantero",
+          "nombre": "Eden",
+          "apellidos": "Hazard",
+          "fecha_nacimiento": {
+            "year": 1991,
+            "month": 1,
+            "day": 7
+          },
+          "nacionalidad": "Belga"
+        }
+      ]
+    },
+    {
+      "nombre": "Atlético de Madrid",
+      "ciudad": "Madrid",
+      "jugadores": [
+        {
+          "posicion": "portero",
+          "nombre": "Jan",
+          "apellidos": "Oblak",
+          "fecha_nacimiento": {
+            "year": 1993,
+            "month": 1,
+            "day": 7
+          },
+          "nacionalidad": "Eslovena"
+        },
+        {
+          "posicion": "delantero",
+          "nombre": "João Félix",
+          "apellidos": "Sequeira",
+          "fecha_nacimiento": {
+            "year": 1999,
+            "month": 11,
+            "day": 10
+          },
+          "nacionalidad": "Portuguesa"
+        }
+      ]
+    }
+  ]
+}

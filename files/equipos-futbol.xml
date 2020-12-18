@@ -1,0 +1,158 @@
+﻿<?xml version="1.0" encoding="UTF-8" ?>
+<equipos_de_futbol>
+    <equipo>
+        <nombre>Real Madrid</nombre>
+        <ciudad>Madrid</ciudad>
+        <entrenador>Zinedine Zidane</entrenador>
+        <jugadores>
+            <jugador posicion="portero">
+                <nombre>Thibaut</nombre>
+                <apellidos>Courtois</apellidos>
+                <fecha_nacimiento>11-05-1992</fecha_nacimiento>
+                <nacionalidad>Belga</nacionalidad>
+            </jugador>
+            <jugador posicion="defensa">
+                <nombre>Sergio</nombre>
+                <apellidos>Ramos García</apellidos>
+                <fecha_nacimiento>30-03-1986</fecha_nacimiento>
+                <nacionalidad>Española</nacionalidad>
+            </jugador>
+            <jugador posicion="centrocampista">
+                <nombre>Luka</nombre>
+                <apellidos>Modric</apellidos>
+                <fecha_nacimiento>09-09-1985</fecha_nacimiento>
+                <nacionalidad>Croata</nacionalidad>
+            </jugador>
+            <jugador posicion="delantero">
+                <nombre>Eden</nombre>
+                <apellidos>Hazard</apellidos>
+                <fecha_nacimiento>07-01-1991</fecha_nacimiento>
+                <nacionalidad>Belga</nacionalidad>
+            </jugador>
+        </jugadores>
+    </equipo>
+    <equipo>
+        <nombre>Barcelona</nombre>
+        <ciudad>Barcelona</ciudad>
+        <entrenador>Ronald Koeman</entrenador>
+        <jugadores>
+            <jugador posicion="portero">
+                <nombre>Marc-André</nombre>
+                <apellidos>ter Stegen</apellidos>
+                <fecha_nacimiento>30-04-1992</fecha_nacimiento>
+                <nacionalidad>Alemana</nacionalidad>
+            </jugador>
+            <jugador posicion="defensa">
+                <nombre>Gerard</nombre>
+                <apellidos>Piqué</apellidos>
+                <fecha_nacimiento>02-02-1987</fecha_nacimiento>
+                <nacionalidad>Española</nacionalidad>
+            </jugador>
+            <jugador posicion="centrocampista">
+                <nombre>Ivan</nombre>
+                <apellidos>Rakitic</apellidos>
+                <fecha_nacimiento>10-03-1988</fecha_nacimiento>
+                <nacionalidad>Croata</nacionalidad>
+            </jugador>
+            <jugador posicion="delantero">
+                <nombre>Lionel</nombre>
+                <apellidos>Messi</apellidos>
+                <fecha_nacimiento>24-06-1987</fecha_nacimiento>
+                <nacionalidad>Argentina</nacionalidad>
+            </jugador>
+        </jugadores>
+    </equipo>
+    <equipo>
+        <nombre>Valencia</nombre>
+        <ciudad>Valencia</ciudad>
+        <entrenador>Albert Celades</entrenador>
+        <jugadores>
+            <jugador posicion="portero">
+                <nombre>Peter</nombre>
+                <apellidos>Cillessen</apellidos>
+                <fecha_nacimiento>22-04-1989</fecha_nacimiento>
+                <nacionalidad>Países Bajos</nacionalidad>
+            </jugador>
+            <jugador posicion="defensa">
+                <nombre>Ezequiel</nombre>
+                <apellidos>Garay</apellidos>
+                <fecha_nacimiento>10-10-1986</fecha_nacimiento>
+                <nacionalidad>Argentina</nacionalidad>
+            </jugador>
+        </jugadores>
+        <jugador posicion="centrocampista">
+            <nombre>Daniel</nombre>
+            <apellidos>Parejo Muñoz</apellidos>
+            <fecha_nacimiento>16-04-1989</fecha_nacimiento>
+            <nacionalidad>Española</nacionalidad>
+        </jugador>
+        <jugador posicion="delantero">
+            <nombre>Rodrigo</nombre>
+            <apellidos>Moreno Machado</apellidos>
+            <fecha_nacimiento>06-03-1991</fecha_nacimiento>
+            <nacionalidad>Argentina</nacionalidad>
+        </jugador>
+    </equipo>
+    <equipo>
+        <nombre>Sevilla</nombre>
+        <ciudad>Sevilla</ciudad>
+        <entrenador>Julen Lopetegui</entrenador>
+        <jugadores>
+            <jugador posicion="portero">
+                <nombre>Tomas</nombre>
+                <apellidos>Vaclik</apellidos>
+                <fecha_nacimiento>29-03-1989</fecha_nacimiento>
+                <nacionalidad>República Checa</nacionalidad>
+            </jugador>
+            <jugador posicion="defensa">
+                <nombre>Sergi</nombre>
+                <apellidos>Gómez Solá</apellidos>
+                <fecha_nacimiento>28-03-1992</fecha_nacimiento>
+                <nacionalidad>Española</nacionalidad>
+            </jugador>
+            <jugador posicion="centrocampista">
+                <nombre>Joan</nombre>
+                <apellidos>Jordan Moreno</apellidos>
+                <fecha_nacimiento>06-07-1994</fecha_nacimiento>
+                <nacionalidad>Española</nacionalidad>
+            </jugador>
+            <jugador posicion="delantero">
+                <nombre>Manuel</nombre>
+                <apellidos>Agudo Durán</apellidos>
+                <fecha_nacimiento>15-10-1986</fecha_nacimiento>
+                <nacionalidad>Española</nacionalidad>
+            </jugador>
+        </jugadores>
+    </equipo>
+    <equipo>
+        <nombre>Atlético de Madrid</nombre>
+        <ciudad>Madrid</ciudad>
+        <entrenador>Diego Simeone</entrenador>
+        <jugadores>
+            <jugador posicion="portero">
+                <nombre>Jan</nombre>
+                <apellidos>Oblak</apellidos>
+                <fecha_nacimiento>07-01-1993</fecha_nacimiento>
+                <nacionalidad>Eslovena</nacionalidad>
+            </jugador>
+            <jugador posicion="defensa">
+                <nombre>José</nombre>
+                <apellidos>Giménez de Vargas</apellidos>
+                <fecha_nacimiento>20-01-1995</fecha_nacimiento>
+                <nacionalidad>Española</nacionalidad>
+            </jugador>
+            <jugador posicion="centrocampista">
+                <nombre>Saúl</nombre>
+                <apellidos>Ñíguez Esclapez</apellidos>
+                <fecha_nacimiento>21-11-1994</fecha_nacimiento>
+                <nacionalidad>Española</nacionalidad>
+            </jugador>
+            <jugador posicion="delantero">
+                <nombre>João Félix</nombre>
+                <apellidos>Sequeira</apellidos>
+                <fecha_nacimiento>10-11-1999</fecha_nacimiento>
+                <nacionalidad>Portuguesa</nacionalidad>
+            </jugador>
+        </jugadores>
+    </equipo>
+</equipos_de_futbol>

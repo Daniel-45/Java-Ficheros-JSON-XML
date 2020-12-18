@@ -1,0 +1,52 @@
+{
+    "bookstore": {
+        "book": [
+            {
+                "title": {
+                    "_lang": "en",
+                    "__text": "Everyday Italian"
+                },
+                "author": "Giada De Laurentiis",
+                "date": "2005-11-30",
+                "price": "30.00",
+                "_category": "Cooking"
+            },
+            {
+                "title": {
+                    "_lang": "en",
+                    "__text": "Harry Potter"
+                },
+                "author": "J. K. Rowling",
+                "date": "2005-10-28",
+                "price": "29.99",
+                "_category": "Children"
+            },
+            {
+                "title": {
+                    "_lang": "en",
+                    "__text": "XQuery Kick Start"
+                },
+                "author": [
+                    "James McGovern",
+                    "Per Bothner",
+                    "Kurt Cagle",
+                    "James Linn",
+                    "Vaidyanathan Nagarajan"
+                ],
+                "date": "2015-02-10",
+                "price": "49.99",
+                "_category": "Web"
+            },
+            {
+                "title": {
+                    "_lang": "en",
+                    "__text": "Learning XML"
+                },
+                "author": "Erik Ray",
+                "date": "2003-11-30",
+                "price": "39.95",
+                "_category": "Web"
+            }
+        ]
+    }
+}
